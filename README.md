@@ -1,2 +1,2 @@
 # delta-demo
-this is the forst repo
+this is the first repo
